@@ -1,0 +1,13 @@
+body{
+  cursor: url(cursor.svg),auto;
+}
+
+.content {
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+}
+
+.main-content{
+  width: 1035px;
+}

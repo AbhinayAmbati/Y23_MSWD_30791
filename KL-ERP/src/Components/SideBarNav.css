@@ -1,0 +1,37 @@
+.Side-Bar {
+  padding-top: 10px;
+  padding-left: 5px;
+  width: 240px;
+  height: 83vh; 
+  background-color: #fbfbfb;
+  display: flex;
+  flex-direction: column; 
+  border-radius: 20px;
+  border: ridge 2px #ddd;
+  scroll-behavior: smooth;
+}
+
+.Side-Bar button {
+  width: 235px;
+  margin-bottom: 5px;
+  padding: 10px;
+  background-color: #222f2b;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-right: 8px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.Side-Bar button:hover{
+  background-color: rgb(0, 94, 255);
+  cursor: url(pointer.svg),auto;
+}
+
+.content {
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+}

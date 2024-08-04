@@ -1,0 +1,28 @@
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 83vh; 
+  }
+  
+  .input form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+  }
+  
+  .input {
+    height: auto;
+  }
+  
+  select{
+    width: 200px;
+    height: 25px;
+  }
+
+  input{
+    width: 200px;
+    height: 25px;
+  }

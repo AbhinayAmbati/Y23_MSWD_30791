@@ -1,0 +1,62 @@
+.Nav {
+    display: flex;
+    background-color :rgb(30, 41, 41);
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  
+  .img1 {
+    width: 100px;
+    height: 40px;
+    padding-left: 10px;
+    padding-top: 5px;
+  }
+  
+  .student{
+    display: flex;
+  }
+  
+  .student1 {
+    margin-left: auto;
+    padding-top: 20px;
+    padding-left: 8px;
+    padding-right: 2px;
+    display: flex;
+    height: 30px;
+    width: 30px;
+  }
+  
+  .id-no{
+    padding-right: 12px;
+    color: white;
+  }
+  
+  .Nav h2{
+    margin: auto;
+    padding-left: 10px;
+    color: white;
+  }
+  
+  .middle{
+    background-color: rgb(238, 19, 19);
+    height: 6vh;
+    display: flex;
+  }
+  
+  .btn1{
+    margin-left: auto;
+  }
+  
+  .middle button{
+    padding: 13px;
+    width: 80px;
+    background-color: #0085f3;
+    color: white;
+    border: none;
+    cursor: url(pointer.svg),auto;
+  }
+  
+  .middle button:hover{
+    background-color: #222f2b;
+  }

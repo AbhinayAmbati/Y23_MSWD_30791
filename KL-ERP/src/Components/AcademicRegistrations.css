@@ -1,0 +1,12 @@
+.inNav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 83vh; 
+  }
+  
+  .centered-text {
+    text-align: center;
+    padding-left: 200px;
+  }
+  
